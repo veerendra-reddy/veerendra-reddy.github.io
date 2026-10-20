@@ -1,0 +1,44 @@
+# S Veerendrareddy
+
+> Full-stack Software Development Engineer at Halodoc (Southeast Asia's leading digital-health platform), based in Bengaluru, India. Started on web (Angular / TypeScript), moved to backend (Java, Spring Boot, Dropwizard, Kafka, MySQL). **Open to work: full-stack SDE roles in Bengaluru or remote.**
+
+## Availability
+
+- Status: open to new opportunities
+- Roles: full-stack Software Development Engineer (backend-strong), including data pipelines, distributed systems, fintech and AI-powered products
+- Location: Bengaluru, India, or remote
+- Contact: veerendrareddykv@gmail.com · +91 9141186623 · https://www.linkedin.com/in/s-veerendrareddy-44b39b219
+
+## Summary
+
+- 2.5+ years in production at Halodoc (Feb 2024 – present).
+- Builds Java microservices and Kafka pipelines that ingest and reconcile high-volume financial data from pharmacies, insurers, payment gateways and banks.
+- Strong in SQL performance (EXPLAIN-driven indexing, N+1 elimination, batched writes), production incident ownership and observability-led debugging (Dynatrace).
+- Builds Claude Code agentic skills used across the team to find and fix problems end to end, including tests and merge requests.
+
+## Selected results
+
+- Cut LCP on halodoc.com/tanya-dokter from 7.0 s to under 2.5 s (Angular SSR, TransferState, preload injection).
+- Found a production query scanning 2.6M rows to return about 500; root-caused 5–13 s API and Kafka consumer latency.
+- Eliminated N+1 queries across 4 reconciliation microservices with 100% new-code branch coverage.
+- Cut a production 4xx error ticket queue from 90 to 1 with a Dynatrace DQL sweep.
+- Removed a ~12 s slow aggregation query; led recovery from an ingestion outage including schema verification and backfill.
+
+## Skills
+
+- Backend: Java (8–25), Spring Boot / Spring 6, Dropwizard, JAX-RS, Hibernate / JPA, Node.js, Express, REST, microservices
+- Data and messaging: Apache Kafka, MySQL 8, PostgreSQL, Liquibase, query tuning
+- Frontend: Angular, TypeScript, RxJS, SSR, SCSS, Tailwind
+- Cloud and DevOps: Docker, Kubernetes, AWS (EKS, RDS), Jenkins CI/CD
+- Testing and observability: JUnit, TestNG, Mockito, JaCoCo + SonarQube, Dynatrace
+- AI: Claude Code, MCP, agentic workflows, LLM integration (OpenAI, Claude, Gemini)
+
+## Education
+
+- B.Tech, Information Science Engineering, National Institute of Engineering (NIE), Mysuru, 2020–2024
+
+## Links
+
+- [Portfolio website](https://veerendra-reddy.github.io/): full profile, projects and experience
+- [Resume (PDF, 1 page)](https://veerendra-reddy.github.io/S_Veerendrareddy_Resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/s-veerendrareddy-44b39b219)
